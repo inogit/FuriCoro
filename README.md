@@ -12,7 +12,11 @@ BLEキーボードとしてPCに繋がるので、ドライバもアプリのイ
 
 ## 📺 デモ
 
-> （ここに動画を貼る）
+
+
+https://github.com/user-attachments/assets/48af5c12-4d48-47eb-b89f-51a5c0a4fe04
+
+
 
 ---
 
