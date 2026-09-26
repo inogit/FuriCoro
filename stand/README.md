@@ -145,4 +145,7 @@ USBケーブルをPicoに挿して電源を入れ、PCとBluetoothでペアリ�
 
 ## 📄 ライセンス
 
-MIT License（本体と同じ）
+[CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.ja)（本体と同じ）
+
+個人利用・改変・再配布は自由です。**商用利用（販売など）はご遠慮ください。**
+本作品の利用によって生じたいかなる損害についても、作者は責任を負いません。
