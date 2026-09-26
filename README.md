@@ -152,7 +152,7 @@ https://github.com/earlephilhower/arduino-pico/releases/download/global/package_
 ブレッドボードの代わりに、1枚のパネルと2本の脚で組む専用スタンドを作りました。
 ケースで覆わないオープンフレーム構造で、ドライバー1本で組み立てられ、Picoの使い回しも簡単です。
 
-> （📷 完成写真）
+![完成](stand/images/09-desk.jpg)
 
 印刷データ・追加パーツ・組み立て手順は [stand/README.md](stand/README.md) を参照。
 
