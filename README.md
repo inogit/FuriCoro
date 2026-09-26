@@ -71,7 +71,7 @@ https://github.com/user-attachments/assets/48af5c12-4d48-47eb-b89f-51a5c0a4fe04
 | ブレッドボード | 市販の汎用品でOK |
 | microUSBケーブル（データ通信対応） | 手持ちでOK（⚠️ Pico 2 は micro USB）|
 
-詳細は [docs/パーツリスト.md](docs/パーツリスト.md) を参照。
+詳細は [docs/parts-list.md](docs/parts-list.md) を参照。
 
 ---
 
@@ -89,7 +89,7 @@ https://github.com/user-attachments/assets/48af5c12-4d48-47eb-b89f-51a5c0a4fe04
 I2Cアドレス: センサー `0x73` / OLED `0x3C`
 
 各信号はPicoの1ピンからセンサーとOLEDの2つに分岐します。
-詳しい分岐方法は [docs/FuriCoro配線表.md](docs/FuriCoro配線表.md) を参照。
+詳しい分岐方法は [docs/wiring.md](docs/wiring.md) を参照。
 
 ---
 
