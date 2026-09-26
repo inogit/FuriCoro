@@ -147,6 +147,17 @@ https://github.com/earlephilhower/arduino-pico/releases/download/global/package_
 
 ---
 
+## 🖨️ オープンフレームスタンド（3Dプリント）
+
+ブレッドボードの代わりに、1枚のパネルと2本の脚で組む専用スタンドを作りました。
+ケースで覆わないオープンフレーム構造で、ドライバー1本で組み立てられ、Picoの使い回しも簡単です。
+
+> （📷 完成写真）
+
+印刷データ・追加パーツ・組み立て手順は [stand/README.md](stand/README.md) を参照。
+
+---
+
 ## 📂 ファイル構成
 
 ```
@@ -154,18 +165,24 @@ FuriCoro/
 ├── README.md
 ├── FuriCoro/
 │   └── FuriCoro.ino          # メインスケッチ
-└── docs/
-    ├── パーツリスト.md
-    └── FuriCoro配線表.md
+├── docs/
+│   ├── パーツリスト.md
+│   └── FuriCoro配線表.md
+└── stand/                    # オープンフレームスタンド
+    ├── README.md             # 説明・追加パーツ・組み立て手順
+    ├── FuriCoro_panel.stl
+    ├── FuriCoro_leg_L.stl
+    └── FuriCoro_leg_R.stl
 ```
-
-※ 専用パネル（3Dプリント）とケースは現在設計中です。完成次第このリポジトリに追加します。
 
 ---
 
 ## 📄 ライセンス
 
-MIT License
+[CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.ja)
+
+個人利用・改変・再配布は自由です。**商用利用（販売など）はご遠慮ください。**
+本作品の利用によって生じたいかなる損害についても、作者は責任を負いません。
 
 ---
 
